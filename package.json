@@ -1,7 +1,7 @@
 {
   "name": "@nkp/delay",
   "sideEffects": false,
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Utility function to resolve a promise after the given duration.",
   "main": "cjs/index.js",
   "module": "es/index.js",

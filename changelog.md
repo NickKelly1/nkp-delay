@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.0.1 - 2022-01-30
+
+### Changed
+
+- Removed comments from cjs & esm exports
+
 ## 1.0.0 - 2022-01-30
 
 Major release

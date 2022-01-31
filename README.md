@@ -31,7 +31,6 @@ run();
   - [npm](#npm)
   - [yarn](#yarn)
   - [pnpm](#pnpm)
-- [Usage](#usage)
 - [Publishing](#publishing)
 
 ### Exports

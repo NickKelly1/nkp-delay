@@ -1,6 +1,6 @@
 /**
  * Create a promise that resolves after the given number of milliseconds
- * 
+ *
  * @param ms  milliseconds to wait for
  * @returns   promise
  */

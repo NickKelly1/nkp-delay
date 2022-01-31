@@ -26,64 +26,36 @@ run();
 
 ## Table of contents
 
+- [Exports](#exports)
 - [Installation](#installation)
   - [npm](#npm)
   - [yarn](#yarn)
   - [pnpm](#pnpm)
-  - [Exports](#exports)
 - [Usage](#usage)
-- [Updating Dependencies](#updating-dependencies)
+- [Publishing](#publishing)
+
+### Exports
+
+`@nkp/delay` exports both CommonJS and ES modules.
 
 ## Installation
 
-### NPM
+### npm
 
 ```sh
 npm install @nkp/delay
 ```
 
-### Yarn
+### yarn
 
 ```sh
 yarn add @nkp/delay
 ```
 
-### PNPM
+### pnpm
 
 ```sh
 pnpm add @nkp/delay
-```
-
-### Exports
-
-`@nkp/delay` targets CommonJS and ES modules. To utilise ES modules consider using a bundler like `webpack` or `rollup`.
-
-## Usage
-
----USAGE-TEXT---
-
-## Updating dependencies
-
-To update dependencies run one of
-
-```sh
-# if npm
-# update package.json
-npx npm-check-updates -u
-# install
-npm install
-
-# if yarn
-# update package.json
-yarn create npm-check-updates -u
-# install
-yarn
-
-# if pnpm
-# update package.json
-pnpx npm-check-updates -u
-# install
-pnpm install
 ```
 
 ## Publishing
